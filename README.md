@@ -47,14 +47,16 @@ ToDo: Figma UI Design**
 
 4. **Management of devices**
 ToDo: Figma UI Design of Android App
-In this mobile application design, the focus is on providing quick and easy control of home appliances, with emphasis on those used most frequently. Lights are featured prominently, as they are interacted with multiple times daily. Fans are also given significant attention due to their regular use in maintaining comfort. The Air Conditioner is included for efficient temperature control, especially in extreme conditions. Lastly, the TV is integrated to offer convenient control as part of the home entertainment system
+In this mobile application design, the focus is on providing quick and easy control of home appliances, with emphasis on those used most frequently. Lights are featured prominently, as they are interacted with multiple times daily. Fans are also given significant attention due to their regular use in maintaining comfort. The Air Conditioner is included for efficient temperature control, especially in extreme conditions. Lastly, the TV is integrated to offer convenient control as part of the home entertainment system .
 
     
        
 ![Screenshot (367)](https://github.com/user-attachments/assets/1923cdf2-369c-4411-a379-95795b7734f1)
 
    
-      ![Screenshot (368)](https://github.com/user-attachments/assets/138aa33d-1e1e-40b6-bb32-881210b2b99e)
+   ![Screenshot (368)](https://github.com/user-attachments/assets/ba67c0bc-64b4-4a3e-99d5-345dae55983c)
+
    
 
-        ![Screenshot (369)](https://github.com/user-attachments/assets/d16bfffa-7c29-4085-b388-1e8981897573)
+![Screenshot (369)](https://github.com/user-attachments/assets/d9013a5d-773a-4e47-b5f3-ca0b724b0a56)
+
