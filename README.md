@@ -30,33 +30,48 @@ Types of Screens:
 1. **Login & Register Page**
 ToDo: User Sign In
 
-   ![Screenshot (365)](https://github.com/user-attachments/assets/7f89fd8d-f2db-4f3d-9d19-76050b77474e)
------------------------------------------------------------------------------------------------------------------------------------------
+----------------![Screenshot (390)](https://github.com/user-attachments/assets/3705aa5b-114f-45cd-b606-6d54da066a66)
+-------------------------------------------------------------------------------------------------------------------------------
 2. **Home Page**
-ToDo:
+ToDo:  Figma UI Design
     
-----------
---------------------
---------------------------------------------------------------------------------------------------------------------------------------------
+---------------![Screenshot (391)](https://github.com/user-attachments/assets/5992a869-9f5e-4bf9-934a-3f39af3e7adf)
+-----------------------------------------------------------------------------------------------------------------------------
 
 3.  **Total Devices in a room**
-ToDo: Figma UI Design**
+ToDo: Figma UI Design
 
-  ![Screenshot (366)](https://github.com/user-attachments/assets/17f4c142-be6a-4b12-93d1-ab53e333f7cc)
----------------------------------------------------------------------------------------------------------------------------------------
+----------------![Screenshot (392)](https://github.com/user-attachments/assets/f50dcefb-bb1a-4606-9419-09300b3bc096)
+------------------------------------------------------------------------------------------------------------------
 
 4. **Management of devices**
-ToDo: Figma UI Design of Android App
-In this mobile application design, the focus is on providing quick and easy control of home appliances, with emphasis on those used most frequently. Lights are featured prominently, as they are interacted with multiple times daily. Fans are also given significant attention due to their regular use in maintaining comfort. The Air Conditioner is included for efficient temperature control, especially in extreme conditions. Lastly, the TV is integrated to offer convenient control as part of the home entertainment system .
+ToDo: Figma UI Design 
 
-    
+   4.1 Lights & Bulbs:
+Use Case: Create the desired ambiance by adjusting brightness, changing colors, and toggling ON/OFF directly from the main screen.
+
+
+---------------![Screenshot (393)](https://github.com/user-attachments/assets/1b153fd5-fb60-4e87-b4ef-7c19be3851ff)
+--------------------------------------------------------------------------------------------------------------------------------------
        
-![Screenshot (367)](https://github.com/user-attachments/assets/1923cdf2-369c-4411-a379-95795b7734f1)
+   4.2 Fan:
+Use Case: Adjust fan speed and toggle ON/OFF directly from the appliance list.
 
-   
-   ![Screenshot (368)](https://github.com/user-attachments/assets/ba67c0bc-64b4-4a3e-99d5-345dae55983c)
 
-   
+---------------![Screenshot (394)](https://github.com/user-attachments/assets/efd8c066-010e-4fc8-90b5-74015c7f2e29)
+--------------------------------------------------------------------------------------------------------------------------------------
+ 
+   4.3 Air Conditioner (AC):
+Use Case: Control AC temperature and power from the listing screen without additional navigation.
 
-![Screenshot (369)](https://github.com/user-attachments/assets/d9013a5d-773a-4e47-b5f3-ca0b724b0a56)
+---------------![Screenshot (395)](https://github.com/user-attachments/assets/3affaf28-bdea-402e-afce-5141fdd9cad2)
+---------------------------------------------------------------------------------------------------------------------------------------
+
+   4.4  TV:
+Use Case: Quickly turn the TV ON/OFF using a simple toggle on the listing screen
+
+---------------![Screenshot (396)](https://github.com/user-attachments/assets/695810da-a262-4c15-af28-70627d129e4d)
+---------------------------------------------------------------------------------------------------------------------------------
+
+
 
