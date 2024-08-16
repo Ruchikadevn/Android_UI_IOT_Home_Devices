@@ -19,11 +19,11 @@ Types of Screens:
 1. Login & Register Page
 2. Home Page - Listing of all devices 
 3. Devices in a room
-	3.1 Fan
-	3.2 Air Conditioner
-	3.3 TV
-	3.4 Lights & Bulbs
-4. Management of devices based on use case
+   3.1 Fan
+   3.2 Air Conditioner
+   3.3 TV
+   3.4 Lights & Bulbs
+5. Management of devices based on use case
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
